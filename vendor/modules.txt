@@ -1,0 +1,2 @@
+# github.com/tensorflow/tensorflow v1.14.0
+github.com/tensorflow/tensorflow/tensorflow/go
